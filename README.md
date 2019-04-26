@@ -1,7 +1,7 @@
 # Centrality-Influence-Maximization
-A influence maximization model based on various centrality measurement methods and IC model
+A influence maximization model based on various centrality measurement methods and IC model.
 
-If you use the code, please cite the paper below
+If you use the code, please cite the paper below.
 
 **A novel centrality cascading based edge parameter evaluation method for robust influence maximization**
 
